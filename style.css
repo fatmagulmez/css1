@@ -1,0 +1,38 @@
+h1{
+    margin-left: 400px;
+    color: rgb(22, 99, 60);
+}
+
+h2{
+    margin-left: 450px;
+    color:rgb(212, 169, 48);
+}
+nav{
+    margin-left: 0px;
+}
+
+p{
+    color: black;
+    margin:auto;
+    font-style:initial;
+    font-size: large;
+}
+
+h3{
+    margin-left: 350px;
+    color: rgb(238, 98, 5);
+}
+
+ul{
+    margin-left: 400px;
+}
+
+ol{
+    margin-left: 370px;
+}
+
+h4{
+    color: lightcoral;
+    font-size: x-large;
+    font-style: unset;
+}
